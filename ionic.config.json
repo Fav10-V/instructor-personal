@@ -1,0 +1,7 @@
+{
+  "name": "entre-personal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
